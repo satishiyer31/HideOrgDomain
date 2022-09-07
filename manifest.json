@@ -3,13 +3,13 @@
   "author": {
     "name": "Satish Iyer",
     "email": "satish.iyer@zendesk.com",
-    "url": ""
+    "url": "https://z3nsatishiyer.zendesk.com"
   },
   "defaultLocale": "en",
   "private": true,
   "location": {
     "support": {
-      "background": {
+      "organization_sidebar": {
         "url": "assets/iframe.html",
         "flexible": true
       }
